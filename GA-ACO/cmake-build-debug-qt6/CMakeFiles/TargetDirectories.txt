@@ -1,0 +1,3 @@
+/Users/lwz/CLionProjects/GA-ACO/cmake-build-debug-qt6/CMakeFiles/GA_ACO.dir
+/Users/lwz/CLionProjects/GA-ACO/cmake-build-debug-qt6/CMakeFiles/edit_cache.dir
+/Users/lwz/CLionProjects/GA-ACO/cmake-build-debug-qt6/CMakeFiles/rebuild_cache.dir
